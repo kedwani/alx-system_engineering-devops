@@ -1,2 +1,2 @@
 #!/bin/bash
-vi Star_Wars_episode
+telnet towel.blinkenlights.nl
