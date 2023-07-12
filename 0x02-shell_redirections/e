@@ -1,5 +1,5 @@
 #!/bin/bash
-chmod -R a+x *
+chmod e+x .
 git add .
-git commit -m 'auto push'
-git push
+git commit -m 'auto push '
+git push 
