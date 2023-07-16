@@ -1,2 +1,2 @@
 #!/bin/bash
-find -R  -typye f "*.js" . -exec rm 
+find -R  -type f "*.js" . -exec rm 
