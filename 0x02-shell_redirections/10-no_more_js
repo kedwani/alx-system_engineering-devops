@@ -1,2 +1,2 @@
 #!/bin/bash
-find -R  -typye f "*.js" 
+find -R  -typye f "*.js" .
