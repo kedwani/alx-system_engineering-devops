@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type d >file.text ,ls -A <file.text |wc -l
+ls -RA |find . -type d|wc -l
