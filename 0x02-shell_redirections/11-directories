@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -A -R --indicator-style=/  |wc -l
+ls -A -R --indicator-style=slash  |wc -l
